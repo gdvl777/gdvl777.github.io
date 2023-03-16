@@ -37,7 +37,7 @@ const projectsList = [
   {
     name: 'Multi-post stories',
     description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
-    imageLink: '../assets/project2.png',
+    imageLink: './assets/project2.png',
     technologies: ['html', 'css', 'javascript'],
     role: 'Full Stack Dev',
     company: 'Facebook',
@@ -48,7 +48,7 @@ const projectsList = [
   {
     name: 'Facebook 360',
     description: 'A daily selection of privately personalized reads; no accounts or sign-ups required. ',
-    imageLink: '../assets/project3.png',
+    imageLink: './assets/project3.png',
     technologies: ['html', 'css', 'javascript'],
     role: 'Back end Dev',
     company: 'Facebook',
@@ -59,7 +59,7 @@ const projectsList = [
   {
     name: 'Uber Navigation',
     description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
-    imageLink: '../assets/project4.png',
+    imageLink: './assets/project4.png',
     technologies: ['html', 'css', 'javascript'],
     role: 'Lead developer',
     company: 'Uber',
