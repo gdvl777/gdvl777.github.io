@@ -77,9 +77,6 @@ After you're finished please remove all the comments and instructions!
 	<ul>
     <li>CSS</li>
   </ul>
-	<ul>
-    <li>Javascript</li>
-  </ul>
   <ul>
     <li>linters</li>
   </ul>
@@ -92,8 +89,6 @@ After you're finished please remove all the comments and instructions!
 
 - **Add CSS file**
 
-- **Add JS file**
-
 - **Publish on GitHub**
 
 
@@ -101,11 +96,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href="#"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a name="live-demo" href="#">Live Demo</a>
+-- No deployed link yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -127,7 +123,7 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-      git clone git@github.com:gdvl777/Portfolio.git in your terminal
+      git clone git@github.com:gdvl777/portfolio_desktop_version_05.git in your terminal
 
 	  cd portfolio
 
@@ -143,11 +139,6 @@ Run the command below from the Terminal:
 
 - GitHub: [@gdvl777](https://github.com/gdvl777)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvillalba777//)  
-
-👤 **Author2**
-- GitHub: [@solog0039](https://github.com/solog0039)
-- - LinkedIn: [LinkedIn](https://www.linkedin.com/in/solomon-kidane-578813113/)
-- Github: [@Solomon](solog0039@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,6 +166,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SHOW YOUR SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+All your supports are welcome
+
+Feel free.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
