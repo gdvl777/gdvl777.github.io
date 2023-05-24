@@ -82,8 +82,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+<<<<<<< HEAD
 
 - Here you will see a [Live Demo](https://gdvl777.github.io/) of my project.
+=======
+- [Live Demo Link](https://gdvl777.github.io/)
+- [Video Presentation](https://www.loom.com/share/1aa771b4e3364c478386d49d6ffdf7b5)
+>>>>>>> 4566be71306240cca5bc4debceef2c2ec0961e32
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
