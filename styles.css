@@ -36,7 +36,7 @@ body {
 }
 
 .intro-main {
-  background-image: url(Images/BackgroundHomePageMobile.png);
+  background-image: url(./images/BackgroundHomePageMobile.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: -5rem;
@@ -44,7 +44,7 @@ body {
 }
 
 .intro-about {
-  background-image: url(Images/BackgroundHomePageMobile.png);
+  background-image: url(./images/BackgroundHomePageMobile.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -64,7 +64,7 @@ body {
 }
 
 .title {
-  background-image: url(Images/text-image.jpeg);
+  background-image: url(./images/text-image.jpeg);
   background-size: contain;
   color: transparent;
   -webkit-text-fill-color: transparent;
@@ -96,7 +96,7 @@ body {
 }
 
 .main-program {
-  background-image: url(Images/main_bgrd.png);
+  background-image: url(./images/main_bgrd.png);
   background-color: #272a31;
 }
 
@@ -304,7 +304,7 @@ body {
 
 .conference1 {
   background-color: #ec5242;
-  background-image: url(Images/conference1.png);
+  background-image: url(./images/conference1.png);
   background-repeat: no-repeat;
   color: #fff;
   text-align: center;
@@ -316,7 +316,7 @@ body {
 
 .conference2 {
   background-color: #ec5242;
-  background-image: url(Images/conference2.png);
+  background-image: url(./images/conference2.png);
   background-repeat: no-repeat;
   color: #fff;
   text-align: center;
@@ -507,7 +507,7 @@ body {
 /* desktop media querie */
 @media only screen and (min-width: 768px) {
   .intro-main {
-    background-image: url(Images/bg.png);
+    background-image: url(./images/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -516,7 +516,7 @@ body {
   }
 
   .intro-about {
-    background-image: url(Images/about_bg.png);
+    background-image: url(./images/about_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     border: #fff 1px solid;
@@ -922,7 +922,7 @@ body {
     position: absolute;
     top: 3rem;
     right: 2rem;
-    background-image: url(Images/xButton.svg);
+    background-image: url(./images/xButton.svg);
     background-repeat: no-repeat;
     background-size: 30%;
     width: 1rem;
@@ -980,7 +980,7 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: rgb(39, 42, 49);
-  background-image: url(../images/bg-main.png);
+  background-image: url(./images/bg-main.png);
   width: 100vw;
   padding-top: 1.87em;
   gap: 2.5em;
