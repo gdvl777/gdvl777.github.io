@@ -1,7 +1,7 @@
 const featuredSpeakers = [
   {
     n: 0,
-    portrait: './Images/Speakers/sp1.png',
+    portrait: './images/Speakers/sp1.png',
     name: 'FAN Zhendong',
     position: 'Player 1.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
@@ -9,7 +9,7 @@ const featuredSpeakers = [
   },
   {
     n: 1,
-    portrait: './Images/Speakers/sp2.png',
+    portrait: './images/Speakers/sp2.png',
     name: 'MA Long',
     position: 'Player 2.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
@@ -17,7 +17,7 @@ const featuredSpeakers = [
   },
   {
     n: 2,
-    portrait: './Images/Speakers/sp3.png',
+    portrait: './images/Speakers/sp3.png',
     name: 'WANG Chuqin',
     position: 'Player 3.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
@@ -25,7 +25,7 @@ const featuredSpeakers = [
   },
   {
     n: 3,
-    portrait: './Images/Speakers/sp4.png',
+    portrait: './images/Speakers/sp4.png',
     name: 'Clint Eatswood',
     position: 'Player 4.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
@@ -33,7 +33,7 @@ const featuredSpeakers = [
   },
   {
     n: 4,
-    portrait: './Images/Speakers/sp5.png',
+    portrait: './images/Speakers/sp5.png',
     name: 'Lorena Jalek',
     position: 'Player 5.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
@@ -41,7 +41,7 @@ const featuredSpeakers = [
   },
   {
     n: 5,
-    portrait: './Images/Speakers/sp6.png',
+    portrait: './images/Speakers/sp6.png',
     name: 'Malek Nahan',
     position: 'Player 6.',
     resume: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ducimus in quod repellat harum fugit vero, ad enim repellendus delectus nesciunt provident temporibus porro aperiam molestias ut voluptates cumque? Nostrum!',
