@@ -5,7 +5,7 @@
 
   <h3><b>CAPSTONE PROJECT MODULE 1</b></h3>
   <h3><b>WTT Smash SINGAPORE 2023</b></h3>
-  <img src="images/Readme.png" alt="Readme Image">
+  <img src="./images/Readme.png" alt="Readme Image">
 
 </div>
 
