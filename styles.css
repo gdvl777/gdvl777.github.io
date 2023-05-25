@@ -87,12 +87,12 @@ body {
 .date {
   font-size: 1.8rem;
   font-weight: 800;
-  color: #f5eded;
+  color: #df7b2e;
 }
 
 .place {
   font-size: 1.9rem;
-  color: #f3eded;
+  color: #df7b2e;
 }
 
 .main-program {
@@ -135,6 +135,7 @@ body {
 }
 
 .t-main:hover {
+  border: 1px solid white;
   opacity: 1;
   transition: all 300ms ease-in-out;
 }
@@ -516,9 +517,11 @@ body {
   }
 
   .intro-about {
+    display: flex;
+    justify-content: center;
     background-image: url(./images/about_bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-position: center;
+    background-size: contain;
     border: #fff 1px solid;
     position: relative;
   }
@@ -528,10 +531,11 @@ body {
   }
 
   .intro {
-    padding: 0 0 5rem;
+    padding: 0 0 4rem;
     width: 70%;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 6rem 0 0 12rem;
   }
 
   .hamburger {
@@ -759,6 +763,7 @@ body {
   }
 
   .t-main:hover {
+    border: 1px solid white;
     opacity: 1;
     transition: all 0.3s ease-in-out;
   }
@@ -794,7 +799,6 @@ body {
 
   .program {
     flex-direction: row;
-    max-width: 100%;
   }
 
   .see-program {
