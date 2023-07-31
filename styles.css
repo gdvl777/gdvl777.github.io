@@ -98,7 +98,7 @@ body {
 
 .main-program {
   background-image: url(./images/main_bgrd.png);
-  background-color: #272a31;
+  background-color: #272a30;
 }
 
 .main-title {
@@ -503,6 +503,11 @@ body {
 @media only screen and (max-width: 767px) {
   .program {
     display: none;
+  }
+
+  .wttlogo {
+    display: none;
+    width: 280px;
   }
 }
 
